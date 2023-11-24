@@ -1,0 +1,140 @@
+<html>
+<head>
+<title> HELLO <br/> </title>
+<meta charset="UTF-8">
+<style type="text/css">
+ div{
+    width: 200px;
+    height: 100px;
+ }
+
+#div1{
+    background-color: aqua;
+
+}
+#div2{
+    background-color:blue;
+
+}
+#div3{
+    background-color:bisque;
+
+}
+</style>
+</head>
+<body>
+hello world！<br /> 你好，html！
+  <p>
+    这里是第一个段落。
+  </p>
+  <p>
+    这是第二个段落。
+  </p>
+  <img  src='引用图片/img1.jpg' width="17" height="10" alt="这里是一张图片"/>
+  <h1>
+    标题一
+  </h1>
+  <h2>
+    标题二
+  </h2>
+  水果排行榜：
+  <ol type="A">
+    <li>
+      西瓜
+    </li>
+    <li>
+      葡萄
+    </li>
+    <li>
+      哈密瓜
+    </li>
+  </ol>
+  <ul>
+    <li>
+     
+    </li>
+    <li>
+
+    </li>
+    <li>
+
+    </li>
+  </ul>
+  你是不是<u>真的</u>想要<b>努力</b>追求<i>自己</i>梦想的呢
+  <br />
+  水分子的化学式：H<sub>2</sub>O <br/>
+  氧气的化学式：O<sup>2</sup>
+  <div id="div1">div1</div>
+  <div id="div2">div2</div>
+  <div id="div3">div3</div>
+
+  <table border="1" width="200" cellspacing="2">
+    <tr>
+        <th>姓名</th>
+        <th>学院</th>
+        <th>年级</th>
+        <th>学号</th>
+    </tr>
+    <tr>
+        <td>小明</td>
+        <td>智能产业学院</td>
+        <td>2023级</td>
+        <td>123456</td>
+    </tr>
+  </table>
+  <hr/>
+  <table border="1" cellspacing="0" cellpadding="3">
+ <tr>
+    <th>名称</th>
+    <th>单价</th>
+    <th>数量</th>
+    <th>操作</th>
+ </tr>
+ <tr align="center">
+    <td>菠萝</td>
+    <td rowspan="2">2</td>
+    <td>10</td>
+    <td>删除.jpg</td>
+ </tr>
+ <tr align="center">
+   <td>西瓜</td>
+   
+   <td>5</td>
+   <td>删除.jpg</td>
+ </tr>
+ <tr align="center">
+   <td>葡萄</td>
+   <td>10</td>
+   <td>2</td>
+   <td>删除.jpg</td>
+ </tr>
+ <tr align="center" >
+ <td>总计</td>
+ <td colspan="3">100</td>
+ </tr>
+  </table>
+<form action="demo.html" method="post">
+    昵称：<input type="text" name="nickname"/> <br />
+    密码：<input type="password" name="pwd"/> <br />
+    性别：<input type="radio"   name="gender" value="male"/>男
+         <input type="radio"   name="gender" value="female" checked="checked"/>女 <br/>
+    爱好：<input type="checkbox" name="hobby" value="basketball" checked/>篮球<br/>
+         <input type="checkbox" name="hobby" value="football"/>足球<br/>
+         <input type="checkbox" name="hobby" value="run"/>跑步
+    星座：<select name="star">
+        <option value="1">白羊座</option>
+        <option value="2">金牛座</option>
+        <option value="3">射手座</option>
+        <option value="4">魔蝎座</option>
+        <option value="5">天枰座</option>
+        <option value="6">双子座</option>
+        <option value="7">天蝎座</option>
+        </select> <br />
+    备注：<textarea name="remark" rows="4" cols="50">
+    </textarea>   <br />
+    <input type="submit" value="注册"/>
+    <input type="reset" value="重置"/>
+    <input type="button" value="这是一个普通按钮"/>
+</form>
+</body>
+</html>

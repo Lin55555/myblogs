@@ -1,0 +1,40 @@
+<html>
+<head>
+<title> HELLO <br/> </title>
+<meta charset="UTF-8">
+<style type="text/css">
+     /*   
+   这里写的是css
+     */
+     /* 标签样式表  直接针对一种标签进行修饰*/
+     p{
+          color: blue;
+     }
+     /* 类样式表 */
+     .f233{
+          font-size: 20px;
+     }
+     /* ID样式表 */
+     #f666{
+          background-color: aqua;
+          font-size: 30px;
+          color: green;
+     }
+     /* 组合样式表 */
+     div p{
+          color: blueviolet;
+     }
+</style>
+<link rel="stylesheet" href="demo.css" >
+</head>
+<body>
+     <p> <font color="red"> 这是一个段落，采用的是老旧的被淘汰的修饰方式</font></p>
+     <p>  这是一个段落，采用的是css的标签样式表 </p>
+     <p class="f233">  这是一个段落，采用的是css的类样式表,</p>
+     <p id="f666">  这是一个段落，采用的是css的id样式表</p>
+     <div>
+          <p> <span style="font-size: 20px;color: brown;font-weight: 100;">hello world!</span这里采用的是css的组合样式表</p>
+     </div>
+
+</body>
+</html>

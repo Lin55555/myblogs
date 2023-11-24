@@ -1,0 +1,16 @@
+
+     /*   
+      这里采用的是外部样式表，最好都采用外部样式表
+     */
+
+     /* ID样式表 */
+     #f666{
+          background-color: aqua;
+          font-size: 30px;
+          color: green;
+     }
+     /* 组合样式表 */
+     div p{
+          color: blueviolet;
+     }
+
