@@ -2,4 +2,4 @@
 
 > [个人博客]
 
-> [GitHub](https://github.com/Corefo/"github")
+> [个人博客](https://lin55555.github.io/myblogs/#/)
