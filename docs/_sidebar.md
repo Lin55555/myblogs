@@ -9,7 +9,6 @@
   - [03.内部类的详解](java_basic/03.Java内部类详解.md)
   - [04.this关键字](java_basic/04.this关键字.md)
 - Java Web
-  - [html&css](Java_web\html-css\HTML笔记.md)
   - [01.html/css](Java_web\html-css\CSS笔记.md)
   - [02.javascript](Java_web\Javascript\Javascript.md)
   - [02.javascript](Java_web\Javascript\Js和jsp的区别.md)
