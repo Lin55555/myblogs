@@ -26,12 +26,8 @@
   - [03.servlet](Java_web\Servlet\ljx_session保存作用域.md)
   - [03.servlet](Java_web\Servlet\ljx_web项目中设置首页.md)
 
-  - [大数据](大数据/)
-  - [presto](大数据/presto/)
-    - [代码阅读](大数据/presto/代码阅读/)
  
 - Big_Data
-
   - [01.Big_Data](docs\Big_Data\Hadoop安装配置.md)
 
 
