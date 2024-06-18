@@ -4,14 +4,20 @@
   - [第二章节.http协议](computer_basic/Http协议.md)
 
 - javase 基础
+
   - [01.面向对象的三大特征](java_basic/01.面向对象的三大特征.md)
   - [02.类的五大成分](java_basic/02.类的五大成分.md)
   - [03.内部类的详解](java_basic/03.Java内部类详解.md)
   - [04.this关键字](java_basic/04.this关键字.md)
 - Java Web
+<<<<<<< HEAD
   -[前端知识汇总](前端知识汇总/)
   -[html&css](前端知识汇总/html&css)
   - [html&css](Java_web\html-css\HTML笔记.md)
+=======
+
+  - [01.html/css](Java_web\html-css\HTML笔记.md)
+>>>>>>> parent of dec584e (main)
   - [01.html/css](Java_web\html-css\CSS笔记.md)
   - [02.javascript](Java_web\Javascript\Javascript.md)
   - [02.javascript](Java_web\Javascript\Js和jsp的区别.md)
