@@ -27,7 +27,7 @@
   - [大数据](大数据/)
   - [presto](大数据/presto/)
     - [代码阅读](大数据/presto/代码阅读/)
-      - [服务发现](Java_web\Servlet\ljx_web项目中设置首页.md)
+ 
 - Big_Data
 
   - [01.Big_Data](docs\Big_Data\Hadoop安装配置.md)
