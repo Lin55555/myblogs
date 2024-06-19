@@ -23,3 +23,6 @@
   - [11.枚举](java_basic/11.枚举.md)
   - [12.包和权限修饰符](java_basic/12.包和权限修饰符.md)
 
+  - [Java Web入门知识](Java Web入门知识/)
+    - [Servlet知识汇总](Java Web入门知识/Servlet知识汇总/)
+      - [一、Java_Web路径配置](Java_web/Servlet/java_web路径配置须知.md)
