@@ -6,8 +6,6 @@
   - [02.类的五大成分](java_basic/02.类的五大成分.md)
   - [03.内部类的详解](java_basic/03.Java内部类详解.md)
   - [04.this关键字](java_basic/04.this关键字.md)
-<<<<<<< HEAD
-=======
 - Java Web
   - [一、前端汇总]    -[01.html/css](Java_web\html-css\HTML笔记.md)
   - [一、前端汇总]    -[01.html/css](Java_web\html-css\CSS笔记.md)
@@ -37,4 +35,3 @@
 
 
 
->>>>>>> parent of 6bfd2a3 (main)
