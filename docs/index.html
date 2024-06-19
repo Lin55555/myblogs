@@ -11,14 +11,24 @@
 <body>
   <div id="app"></div>
   <script>
-    window.$docsify = {
-      name: '',
-      repo: '',
-      loadSidebar: true,
-      coverpage: true
-    }
+  window.$docsify = {
+            // 开启侧边栏，需要目录下有_sidebar.md文件
+            loadSidebar: true,
+            // 读取md文件中最大几级目录
+            subMaxLevel: 1,
+            // 切换页面后跳回页面顶部
+            auto2top: true,
+            // 指定开始页
+            coverpage: true,
+        };
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- docsify的js依赖 -->
+  <script src="//vox.cab/npm/docsify/lib/docsify.min.js"></script>
+  
+  
 </body>
+
+
 </html>
